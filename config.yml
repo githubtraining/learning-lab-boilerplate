@@ -3,7 +3,7 @@ description: # a longer description for your Learning Lab course, displayed on t
 
 # Repository setup
 # The following section template information for the repository
-# This will be used when the repository is crated for each individual learner
+# This will be used when the repository is created for each individual learner
 
 template:
   name: # the name of the repository when it is created for the learner
